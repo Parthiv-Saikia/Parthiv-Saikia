@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthiv-saikia" alt="parthiv-saikia" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/parthiv_saikia" target="blank"><img src="https://img.shields.io/twitter/follow/parthiv_saikia?logo=twitter&style=for-the-badge" alt="parthiv_saikia" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Parthiv__Saikia" target="blank"><img src="https://img.shields.io/twitter/follow/Parthiv__Saikia?logo=twitter&style=for-the-badge" alt="Parthiv__Saikia" /></a> </p>
 
 - 📫 How to reach me **parthivsaikia0226@gmail.com**
 
