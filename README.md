@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Parthiv-Saikia
+- 👋 Hi, I’m @Parthiv Saikia
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on different projects
