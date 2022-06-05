@@ -1,7 +1,8 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)]
 <h1 align="center">Hi 👋, I'm Parthiv Saikia</h1>
 <h3 align="center">A passionately curious computer science student from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.sithcomputers.com/wp-content/uploads/2021/02/11th-and-12th-cs-1.gif">
+<img align="center" alt="Coding" width=300 src="https://cdn.dribbble.com/users/32897/screenshots/3564812/1.gif">
+<img align="right" alt="Coding" width=300 src="https://cdn.dribbble.com/users/605032/screenshots/2215449/working.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthiv-saikia&label=Profile%20views&color=0e75b6&style=flat" alt="parthiv-saikia" /> </p>
 
