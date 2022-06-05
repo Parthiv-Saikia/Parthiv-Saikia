@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Parthiv Saikia</h1>
 <h3 align="center">A passionately curious computer science student from India.</h3>
 <img align="center" alt="Coding" width=250 src="https://cdn.dribbble.com/users/32897/screenshots/3564812/1.gif">
-<img align="right" alt="Coding" width=150 src="https://cdn.dribbble.com/users/605032/screenshots/2215449/working.gif">
+<img align="right" alt="Coding" width=170 src="https://cdn.dribbble.com/users/605032/screenshots/2215449/working.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthiv-saikia&label=Profile%20views&color=0e75b6&style=flat" alt="parthiv-saikia" /> </p>
 
