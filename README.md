@@ -2,13 +2,22 @@
 <h2 align="left">Hi 👋! My name is Parthiv Saikia and I'm a Computer Science Engineer, from India</h2>
 <h3>Focused on backend development with a strong interest in applying machine learning to build intelligent and scalable systems.</h3>
 
- # 🌐 Socials:
- <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN1dzVoODFscmQ5OTgwa2d1N3Y3aTd1cnpnNHY1aGp0bndyZDd1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
- <h3>Feel free to reach out—always happy to connect!</h3>
-<div align="left">
+# 🌐 Socials
+
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN1dzVoODFscmQ5OTgwa2d1N3Y3aTd1cnpnNHY1aGp0bndyZDd1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+
+### Feel free to reach out—always happy to connect!
+
+
+
+
+You can reach me at: [parthivsaikia0226@gmail.com](mailto:parthivsaikia0226@gmail.com)
+
+ 
+<!-- <div align="left">
   <a href="mailto:parthivsaikia0226@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-</a>
+</a> -->
 
 <a href="https://www.linkedin.com/in/parthiv-saikia-a94357220/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
