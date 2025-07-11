@@ -41,7 +41,7 @@ You can reach me at: [parthivsaikia0226@gmail.com](mailto:parthivsaikia0226@gmai
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Parthiv-Saikia&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false" width="500" alt="languages graph" />
 
 <!-- Streak Stats -->
-<<img src="https://streak-stats.demolab.com/?user=Parthiv-Saikia&theme=tokyonight&hide_border=false" width="500" alt="streak stats" />
+<img src="https://streak-stats.demolab.com/?user=Parthiv-Saikia&theme=tokyonight&hide_border=false" width="500" alt="streak stats" />
 
 
 </div>
